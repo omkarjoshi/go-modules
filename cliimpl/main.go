@@ -1,7 +1,7 @@
 package main
 
 import (
-	"omkarjoshi.in/omkarjoshi/corecli"
+	"https://github.com/omkarjoshi/go-modules/corecli"
 )
 
 func main() {
