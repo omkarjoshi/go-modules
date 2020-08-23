@@ -1,0 +1,1 @@
+module "omkarjoshi.in/omkarjoshi/corecli/v1.0.0"
